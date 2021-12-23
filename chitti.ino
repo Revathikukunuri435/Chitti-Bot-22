@@ -66,6 +66,3 @@ void loop()
   head.write(1500);
  }
 }
-© 2021 GitHub, Inc.
-Terms
-Pr
